@@ -1,4 +1,4 @@
-# Hello world! (get it..?)
+# Hello world! 👋
 
 I’m Raphael, a computer science student at drexel university passionate about software development and how creativity connects with code.
 
