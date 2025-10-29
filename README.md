@@ -1,4 +1,4 @@
-## Hello world! (get it..?)
+# Hello world! (get it..?)
 
 I’m Raphael, a computer science student at drexel university passionate about software development and how creativity connects with code.
 
@@ -8,7 +8,7 @@ When i’m not debugging or sketching ui ideas, you’ll probably find me readin
 
 ---
 
-## 🧠 interests  
+# 🧠 interests  
 - software development (frontend + backend)  
 - ui/ux design and creative coding  
 - full-stack and web development  
@@ -18,7 +18,7 @@ When i’m not debugging or sketching ui ideas, you’ll probably find me readin
 
 ---
 
-## 🌱 currently learning  
+# 🌱 currently learning  
 - **react** and modern web frameworks  
 - **aws** for cloud deployment  
 - **spring boot** backend integration  
@@ -27,7 +27,7 @@ When i’m not debugging or sketching ui ideas, you’ll probably find me readin
 
 ---
 
-## 🎯 goals for 2025-26
+# 🎯 goals for 2025-26
 - participate in 3 hackathons  
 - deploy my first full-stack web application  
 - launch a small project using aws or another cloud service  
