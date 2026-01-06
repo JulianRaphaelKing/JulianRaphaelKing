@@ -10,7 +10,7 @@ When i’m not debugging or sketching ui ideas, you’ll probably find me readin
 **🌱 currently learning**  
 `react` `aws` `spring boot` `unity 3d` `c#` `full-stack dev`  
 
-**🎯 goals for 2025–26**  
+**🎯 goals for 2026**  
 `3 hackathons` `finish full-stack app` `aws project` `unity 3d mini-game` `open-source contributions`
 
 # 💻 Tech Stack:
